@@ -1,0 +1,32 @@
+   /*container css*/
+
+   /* referenced
+
+            .container {
+              color: rgb(57, 57, 87);
+              margin: auto;
+              border: 20px solid transparent;
+              border-image: url('/images/sozai/f2u_frame.webp') 208 fill round; /*208px is the res of the corner, negative space accounted for in inner container*/
+              width: 70%;
+              margin-top:10px;
+              z-index: 2;
+              min-height: 90%;
+              position: relative;
+            }
+
+            .container-content {
+              background-color:aliceblue;
+              position: absolute;
+              width: 100%;
+              border: aliceblue 40px;
+              z-index: 0;
+              height: 100%;
+              /* Adjust these to match frame thickness:
+                For reference: Top and left adjusts the container positioning
+                Padding is just to make it extend into the negative space leftover*/
+              top: -6px;
+              left:-6px;
+              padding-bottom: 10px;
+              padding-right: 10px;
+            }
+            </style>
