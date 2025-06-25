@@ -1,0 +1,8 @@
+title: Your update title
+date: YYYY-MM-DD
+time: HH:MM (optional)
+url: /your-link (optional)
+
+Your content here (supports HTML)
+You can add multiple paragraphs
+
